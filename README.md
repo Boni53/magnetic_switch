@@ -1,3 +1,3 @@
-# codice per magnetic_switch
+# Codice per interruttore magnatico
 
-informazioni sul sensore [qui](https://wiki.seeedstudio.com/Grove-Magnetic_Switch/)
+Informazioni sul sensore [qui](https://wiki.seeedstudio.com/Grove-Magnetic_Switch/)
